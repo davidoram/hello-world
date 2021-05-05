@@ -1,4 +1,6 @@
 # hello-world
 This is test repository
 
-My name is Dave.
+People learning github are:
+
+- Dave
